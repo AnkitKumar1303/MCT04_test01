@@ -254,7 +254,7 @@ function initPayPalButton() {
         // Show a success message within this page, for example:
         const element = document.getElementById('paypal-button-container');
         element.innerHTML = '';
-        element.innerHTML = '<h3>Thank you for your payment!</h3>';
+        element.innerHTML = '<h3>Thank you for your payment! Your Order Is On The Way!!!</h3>';
 
         // Or go to another URL:  actions.redirect('thank_you.html');
         
